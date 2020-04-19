@@ -1,2 +1,2 @@
 # DelHuerto
- Mermelada de calabaza 
+ Mermelada
